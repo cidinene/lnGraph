@@ -1,0 +1,1026 @@
+[
+  {
+    "last_update": 1573498220,
+    "pub_key": "02959fdf7aa725382ffa9512233aaab0577766b6820fa324dc8e9c60a58c1ee1a5",
+    "alias": "My Lightning Node",
+    "addresses": [],
+    "color": "#3399ff",
+    "capacity": 11196611,
+    "channelcount": 3,
+    "noderank": {
+      "capacity": 1132,
+      "channelcount": 920,
+      "age": 1943,
+      "growth": 1961,
+      "availability": 76
+    }
+  },
+  {
+    "last_update": 1573498057,
+    "pub_key": "028ec70462207b57e3d4d9332d9e0aee676c92d89b7c9fb0850fc2a24814d4d83c",
+    "alias": "cyclopes",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "108.44.249.86:9736"
+      }
+    ],
+    "color": "#336633",
+    "capacity": 51473575,
+    "channelcount": 64,
+    "noderank": {
+      "capacity": 376,
+      "channelcount": 35,
+      "age": 1205,
+      "growth": 59,
+      "availability": 6
+    }
+  },
+  {
+    "last_update": 1573497998,
+    "pub_key": "02a5e44c51eff625f5a0e8a6cfd62af34591f982bc6bd8bc611b3d689a5d7c81f1",
+    "alias": "md testnet node",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "207.246.122.217:9836"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 400000,
+    "channelcount": 3,
+    "noderank": {
+      "capacity": 2282,
+      "channelcount": 998,
+      "age": 2846,
+      "growth": 2774,
+      "availability": 86
+    }
+  },
+  {
+    "last_update": 1573497697,
+    "pub_key": "03414a9661565909502d27d7074fe47676c1be88120fa01880a0c4c0fe723db220",
+    "alias": "Monad_LND_NS_tn2",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "2.58.44.154:9735"
+      }
+    ],
+    "color": "#ffffff",
+    "capacity": 170000000,
+    "channelcount": 17,
+    "noderank": {
+      "capacity": 139,
+      "channelcount": 171,
+      "age": 2261,
+      "growth": 2255,
+      "availability": 172
+    }
+  },
+  {
+    "last_update": 1573494246,
+    "pub_key": "0339b3c90c999cece179f8d3b5957932af2e2ef435adb81b55d3675de14dfce051",
+    "alias": "PHENIXIO",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "95.70.173.100:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 68770245,
+    "channelcount": 11,
+    "noderank": {
+      "capacity": 305,
+      "channelcount": 243,
+      "age": 2521,
+      "growth": 2489,
+      "availability": 158
+    }
+  },
+  {
+    "last_update": 1573492558,
+    "pub_key": "029d206da8a57f6fafaf285c4e59f6c716efb8dd4c660d36d604c3bf79122f98d6",
+    "alias": "029d206da8a57f6fafaf",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "95.217.35.32:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 1161808,
+    "channelcount": 2,
+    "noderank": {
+      "capacity": 1829,
+      "channelcount": 1539,
+      "age": 2866,
+      "growth": 2788,
+      "availability": 116
+    }
+  },
+  {
+    "last_update": 1573492400,
+    "pub_key": "03758f3855eb27edd6b6731b2f62f7c9f0f33dc85acc68360095f1a074b856e74e",
+    "alias": "btc.subswap.dev",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "207.180.219.66:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 30000000,
+    "channelcount": 2,
+    "noderank": {
+      "capacity": 609,
+      "channelcount": 1529,
+      "age": 2808,
+      "growth": 51,
+      "availability": 69
+    }
+  },
+  {
+    "last_update": 1573491626,
+    "pub_key": "02c9c7e6c4db1a80b62a260f8b063fdb66aeb85fe7ce9ad2a68e908a0620496c39",
+    "alias": "ITO - lnd-testnet-ito",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "35.190.219.43:9735"
+      }
+    ],
+    "color": "#327aff",
+    "capacity": 1993000,
+    "channelcount": 4,
+    "noderank": {
+      "capacity": 1721,
+      "channelcount": 723,
+      "age": 2727,
+      "growth": 2677,
+      "availability": 112
+    }
+  },
+  {
+    "last_update": 1573491526,
+    "pub_key": "038dacd754f8bdb4ef9f2a03140a56aadafd9a10afe7d359ab401a65eee6da1628",
+    "alias": "038dacd754f8bdb4ef9f",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "95.216.242.46:10010"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 600000,
+    "channelcount": 2,
+    "noderank": {
+      "capacity": 2162,
+      "channelcount": 1530,
+      "age": 2819,
+      "growth": 2751,
+      "availability": 51
+    }
+  },
+  {
+    "last_update": 1573490679,
+    "pub_key": "03236a685d30096b26692dce0cf0fa7c8528bdf61dbf5363a3ef6d5c92733a3016",
+    "alias": "dead.cash",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "50.116.3.223:9734"
+      },
+      {
+        "network": "tcp",
+        "addr": "5m3xcrtr4fsaywdb4cbgqzgpitpowzhvuec4mvdsfdd7hkt6ypuduuad.onion:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 5930600903,
+    "channelcount": 542,
+    "noderank": {
+      "capacity": 2,
+      "channelcount": 3,
+      "age": 749,
+      "growth": 57,
+      "availability": 2
+    }
+  },
+  {
+    "last_update": 1573489592,
+    "pub_key": "0351e9868c7464df8009991c5441bec674efc61a0ae2bfdfe84439d1e2705073e1",
+    "alias": "DAS_Issuer",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "18.219.105.110:9000"
+      }
+    ],
+    "color": "#00ff33",
+    "capacity": 12310000,
+    "channelcount": 10,
+    "noderank": {
+      "capacity": 1104,
+      "channelcount": 278,
+      "age": 2854,
+      "growth": 16,
+      "availability": 56
+    }
+  },
+  {
+    "last_update": 1573489211,
+    "pub_key": "02b75534b5960e934840d7a98ddc7e486487b07a544e6e2cc1287c7267bcc3a499",
+    "alias": "Arcane Crypto-Teslacoil Testnet",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "159.69.36.23:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 62525893,
+    "channelcount": 7,
+    "noderank": {
+      "capacity": 336,
+      "channelcount": 379,
+      "age": 2033,
+      "growth": 11,
+      "availability": 72
+    }
+  },
+  {
+    "last_update": 1573489074,
+    "pub_key": "02e638dd87daf08bcc891518a7175e0890dd81e8ec744b29dcd7e436b53e495f3d",
+    "alias": "DAS_Validator_Merchant1",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "18.224.170.128:9000"
+      }
+    ],
+    "color": "#00ff33",
+    "capacity": 13024399,
+    "channelcount": 11,
+    "noderank": {
+      "capacity": 1081,
+      "channelcount": 247,
+      "age": 2856,
+      "growth": 66,
+      "availability": 49
+    }
+  },
+  {
+    "last_update": 1573488812,
+    "pub_key": "038863cf8ab91046230f561cd5b386cbff8309fa02e3f0c3ed161a3aeb64a643b9",
+    "alias": "aranguren.org",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "203.132.95.10:9735"
+      },
+      {
+        "network": "tcp",
+        "addr": "[2401:d002:4402:0:bf1d:986a:7598:6d49]:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 18250259423,
+    "channelcount": 1254,
+    "noderank": {
+      "capacity": 1,
+      "channelcount": 1,
+      "age": 178,
+      "growth": 95,
+      "availability": 4
+    }
+  },
+  {
+    "last_update": 1573488330,
+    "pub_key": "031c64a68e6d1b9e50711336d92b434c584ce668b2fae59ee688bd73713fee1569",
+    "alias": "lnd-testnet.ignios.net",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "190.85.201.38:9735"
+      }
+    ],
+    "color": "#ffa500",
+    "capacity": 637127759,
+    "channelcount": 104,
+    "noderank": {
+      "capacity": 34,
+      "channelcount": 24,
+      "age": 1161,
+      "growth": 1220,
+      "availability": 67
+    }
+  },
+  {
+    "last_update": 1573487855,
+    "pub_key": "034b3b875dd670f27dc1cc3884c30d7583b2485052de8b33ef31bec9884b78fb9e",
+    "alias": "034b3b875dd670f27dc1c",
+    "addresses": [],
+    "color": "#000000",
+    "capacity": 1900000,
+    "channelcount": 1,
+    "noderank": null
+  },
+  {
+    "last_update": 1573487755,
+    "pub_key": "0270685ca81a8e4d4d01beec5781f4cc924684072ae52c507f8ebe9daf0caaab7b",
+    "alias": "0270685ca81a8e4d4d01",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "159.203.125.125:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 2001451196,
+    "channelcount": 168,
+    "noderank": {
+      "capacity": 7,
+      "channelcount": 14,
+      "age": 167,
+      "growth": 1,
+      "availability": 1
+    }
+  },
+  {
+    "last_update": 1573487732,
+    "pub_key": "03c856d2dbec7454c48f311031f06bb99e3ca1ab15a9b9b35de14e139aa663b463",
+    "alias": "htlc.me",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "34.201.74.232:9735"
+      }
+    ],
+    "color": "#000000",
+    "capacity": 549885279,
+    "channelcount": 50,
+    "noderank": {
+      "capacity": 39,
+      "channelcount": 48,
+      "age": 1208,
+      "growth": 2896,
+      "availability": 5
+    }
+  },
+  {
+    "last_update": 1573487732,
+    "pub_key": "02eadbd9e7557375161df8b646776a547c5cbc2e95b3071ec81553f8ec2cea3b8c",
+    "alias": "OpenNode",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "18.191.253.246:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 1018937897,
+    "channelcount": 126,
+    "noderank": {
+      "capacity": 23,
+      "channelcount": 18,
+      "age": 670,
+      "growth": 2828,
+      "availability": 18
+    }
+  },
+  {
+    "last_update": 1573486541,
+    "pub_key": "03dba690ff5d9b5097b6f4bcb554c146ecf11e4fc1b2ea8e13be652281225fc19a",
+    "alias": "03dba690ff5d9b5097b6",
+    "addresses": [],
+    "color": "#3399ff",
+    "capacity": 36777215,
+    "channelcount": 3,
+    "noderank": {
+      "capacity": 488,
+      "channelcount": 981,
+      "age": 2623,
+      "growth": 2583,
+      "availability": 75
+    }
+  },
+  {
+    "last_update": 1573485956,
+    "pub_key": "026c64f5a7f24c6f7f0e1d6ec877f23b2f672fb48967c2545f227d70636395eaf3",
+    "alias": "026c64f5a7f24c6f7f0e",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "40.122.31.153:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 882183702,
+    "channelcount": 63,
+    "noderank": {
+      "capacity": 27,
+      "channelcount": 37,
+      "age": 2268,
+      "growth": 2801,
+      "availability": 24
+    }
+  },
+  {
+    "last_update": 1573484554,
+    "pub_key": "03a13a469bae4785e27fae24e7664e648cfdb976b97f95c694dea5e55e7d302846",
+    "alias": "PuzzleITC",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "5.102.151.90:9735"
+      }
+    ],
+    "color": "#3974b2",
+    "capacity": 1065970171,
+    "channelcount": 134,
+    "noderank": {
+      "capacity": 22,
+      "channelcount": 17,
+      "age": 366,
+      "growth": 49,
+      "availability": 64
+    }
+  },
+  {
+    "last_update": 1573484494,
+    "pub_key": "029e87deb7d99e4660437a3fb5eb76fb8ebae1778152f72c3aac1bcd0f5e9986bc",
+    "alias": "testnet4-lnd.zaphq.io",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "34.73.104.166:9735"
+      },
+      {
+        "network": "tcp",
+        "addr": "zapn34qfeedw2l5y26p3hnnkusqnbhxcxw64lq5cojmvq45yw4bc3sqd.onion:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 37521414,
+    "channelcount": 17,
+    "noderank": {
+      "capacity": 481,
+      "channelcount": 170,
+      "age": 2084,
+      "growth": 55,
+      "availability": 25
+    }
+  },
+  {
+    "last_update": 1573484426,
+    "pub_key": "03f705236d65a9ed4f5f7dbfa24b7055e00620c95606a94c4cb416fd335bc15c07",
+    "alias": "testnet2-lnd.zaphq.io",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "35.231.86.179:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 83589662,
+    "channelcount": 10,
+    "noderank": {
+      "capacity": 271,
+      "channelcount": 273,
+      "age": 1843,
+      "growth": 1863,
+      "availability": 84
+    }
+  },
+  {
+    "last_update": 1573484421,
+    "pub_key": "038474ec195f497cf4036e5994bd820dd365bb0aaa7fb42bd9b536913a1a2dcc9e",
+    "alias": "lio17lndt",
+    "addresses": [],
+    "color": "#3399ff",
+    "capacity": 5403356,
+    "channelcount": 7,
+    "noderank": {
+      "capacity": 1393,
+      "channelcount": 358,
+      "age": 1346,
+      "growth": 1391,
+      "availability": 119
+    }
+  },
+  {
+    "last_update": 1573484391,
+    "pub_key": "02b4ba2a5b3ad06eb061050e0ec00e06f67906ff089062a21a90ffdfd2314760b3",
+    "alias": "dev-lnd.zaphq.io",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "104.196.114.30:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 119605975,
+    "channelcount": 47,
+    "noderank": {
+      "capacity": 190,
+      "channelcount": 54,
+      "age": 2773,
+      "growth": 3,
+      "availability": 3
+    }
+  },
+  {
+    "last_update": 1573484327,
+    "pub_key": "0218b92d19de937ef740154d20d3a6f37c44e6381ca72b95789295073664cfdd36",
+    "alias": "inbitcoin_lnd",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "31.156.168.201:9745"
+      }
+    ],
+    "color": "#dcdcdc",
+    "capacity": 228508527,
+    "channelcount": 19,
+    "noderank": {
+      "capacity": 102,
+      "channelcount": 155,
+      "age": 1478,
+      "growth": 1516,
+      "availability": 90
+    }
+  },
+  {
+    "last_update": 1573483772,
+    "pub_key": "02599236ba6957c3993f29ea2b299734a700b81b0950fed6aa430cfc946e0384e0",
+    "alias": "WagTwo",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "128.16.7.139:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 1741608074,
+    "channelcount": 118,
+    "noderank": {
+      "capacity": 11,
+      "channelcount": 23,
+      "age": 2740,
+      "growth": 4,
+      "availability": 26
+    }
+  },
+  {
+    "last_update": 1573482777,
+    "pub_key": "027455aef8453d92f4706b560b61527cc217ddf14da41770e8ed6607190a1851b8",
+    "alias": "testnet.yalls.org",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "3.13.29.161:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 560251958,
+    "channelcount": 41,
+    "noderank": {
+      "capacity": 38,
+      "channelcount": 64,
+      "age": 2384,
+      "growth": 2898,
+      "availability": 9
+    }
+  },
+  {
+    "last_update": 1573481948,
+    "pub_key": "03b05b2b15cad59018428d6088dc12ee6ea9758d6743eeace71a19b65f5e05b457",
+    "alias": "WagOne",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "128.16.7.139:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 1700527951,
+    "channelcount": 120,
+    "noderank": {
+      "capacity": 12,
+      "channelcount": 22,
+      "age": 2735,
+      "growth": 2897,
+      "availability": 8
+    }
+  },
+  {
+    "last_update": 1573480667,
+    "pub_key": "0340a5ef77a609691ceff9163c73d35f548f692824ecfe155bb0c781b8715906f0",
+    "alias": "icemark-0",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "ywnsksrzgjotjciore2pz47bikm4q6hluv5ikktzb746woa4s2szgdqd.onion:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 165110430,
+    "channelcount": 61,
+    "noderank": {
+      "capacity": 143,
+      "channelcount": 38,
+      "age": 1615,
+      "growth": 1649,
+      "availability": 50
+    }
+  },
+  {
+    "last_update": 1573480652,
+    "pub_key": "02863805414e5baddc6f2ccd174cc18f766b174939070ed973b4b94a4a96fe31f8",
+    "alias": "globulight_inbitcoin",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "212.24.108.3:9735"
+      }
+    ],
+    "color": "#666666",
+    "capacity": 221511973,
+    "channelcount": 26,
+    "noderank": {
+      "capacity": 109,
+      "channelcount": 104,
+      "age": 1765,
+      "growth": 40,
+      "availability": 92
+    }
+  },
+  {
+    "last_update": 1573479919,
+    "pub_key": "0349659e4c8b7ce20a6b88ecfb4f1c462393f8cc5840a1fec23f4eee5905477f52",
+    "alias": "deadcatlambo",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "151.62.125.146:9735"
+      }
+    ],
+    "color": "#16a085",
+    "capacity": 37142122,
+    "channelcount": 4,
+    "noderank": {
+      "capacity": 485,
+      "channelcount": 731,
+      "age": 2876,
+      "growth": 5,
+      "availability": 217
+    }
+  },
+  {
+    "last_update": 1573478906,
+    "pub_key": "022368baffc9c5a46e7e0aa9690dd753cba2889e42498369c3643efbb422b492f9",
+    "alias": "dev.schmoock.net",
+    "addresses": [],
+    "color": "#ffdd00",
+    "capacity": 500000,
+    "channelcount": 5,
+    "noderank": {
+      "capacity": 2220,
+      "channelcount": 550,
+      "age": 2257,
+      "growth": 2251,
+      "availability": 164
+    }
+  },
+  {
+    "last_update": 1573478568,
+    "pub_key": "039fc6b2966ecae498b44559ee0d22275503c7c74ec0fec8475c7571df0c330428",
+    "alias": "039fc6b2966ecae498b4",
+    "addresses": [],
+    "color": "#3399ff",
+    "capacity": 50331645,
+    "channelcount": 3,
+    "noderank": {
+      "capacity": 403,
+      "channelcount": 992,
+      "age": 2769,
+      "growth": 2712,
+      "availability": 74
+    }
+  },
+  {
+    "last_update": 1573478068,
+    "pub_key": "03f060953bef5b777dc77e44afa3859d022fc1a77c55138deb232ad7255e869c00",
+    "alias": "Boltz",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "35.237.24.136:9735"
+      },
+      {
+        "network": "tcp",
+        "addr": "idz7qlezif6hgmjkpmuelnsssyxea2lwan562a5gla7jmlxsl5cb2cad.onion:9735"
+      }
+    ],
+    "color": "#ff9800",
+    "capacity": 233848967,
+    "channelcount": 19,
+    "noderank": {
+      "capacity": 100,
+      "channelcount": 156,
+      "age": 1934,
+      "growth": 1952,
+      "availability": 45
+    }
+  },
+  {
+    "last_update": 1573477459,
+    "pub_key": "027a1cd64065dc39275b011ae7d89e04ff523bb21b84a50a1b160e84e3a715a838",
+    "alias": "027a1cd64065dc39275b",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "18.217.156.121:9735"
+      },
+      {
+        "network": "tcp",
+        "addr": "futmpqzzij5hz4rltds5ctma6ul7n3nlzbiwjpn5ckgric76mbxk2nid.onion:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 274199698,
+    "channelcount": 26,
+    "noderank": {
+      "capacity": 88,
+      "channelcount": 105,
+      "age": 2088,
+      "growth": 2809,
+      "availability": 60
+    }
+  },
+  {
+    "last_update": 1573477100,
+    "pub_key": "02fc58503f73c433180b43f7fa22ca9b9212271279f5c054b3fad5ff3dc7c7c045",
+    "alias": "test.networkingfanatic.com",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "104.218.150.185:9736"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 156768402,
+    "channelcount": 14,
+    "noderank": {
+      "capacity": 150,
+      "channelcount": 201,
+      "age": 2364,
+      "growth": 2347,
+      "availability": 32
+    }
+  },
+  {
+    "last_update": 1573476471,
+    "pub_key": "03b882dcd309adaf4d66d1aadfbc6e85764bd65c6bdaf03689c55f1abd13f53fc5",
+    "alias": "LiteGo.io TESTNET",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "95.216.101.105:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 321817311,
+    "channelcount": 55,
+    "noderank": {
+      "capacity": 67,
+      "channelcount": 42,
+      "age": 1750,
+      "growth": 1775,
+      "availability": 135
+    }
+  },
+  {
+    "last_update": 1573476279,
+    "pub_key": "02651acf4a7096091bf42baad19b3643ea318d6979f6dcc16ebaec43d5b0f4baf2",
+    "alias": "Flexo",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "82.119.233.36:19735"
+      }
+    ],
+    "color": "#545454",
+    "capacity": 1127896951,
+    "channelcount": 155,
+    "noderank": {
+      "capacity": 21,
+      "channelcount": 16,
+      "age": 206,
+      "growth": 19,
+      "availability": 105
+    }
+  },
+  {
+    "last_update": 1573476025,
+    "pub_key": "0295cebc390927dd91272492f49614fb8c4e66a93686e790352eb4a2e0ca62994f",
+    "alias": "0295cebc390927dd9127",
+    "addresses": [],
+    "color": "#3399ff",
+    "capacity": 1600000,
+    "channelcount": 3,
+    "noderank": {
+      "capacity": 1759,
+      "channelcount": 978,
+      "age": 2588,
+      "growth": 93,
+      "availability": 71
+    }
+  },
+  {
+    "last_update": 1573475858,
+    "pub_key": "02acb5b3bdf46d3a35e665c9abe46def12c341f55d603853ddeb1371076cab5c57",
+    "alias": "LightningPeachHubTestnet",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "3.120.190.204:49735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 335764353,
+    "channelcount": 52,
+    "noderank": {
+      "capacity": 64,
+      "channelcount": 46,
+      "age": 1841,
+      "growth": 1861,
+      "availability": 17
+    }
+  },
+  {
+    "last_update": 1573475454,
+    "pub_key": "02cfa55d1e7b105ea1613089d6ab2a3db9cb7fe9e92126d46e015c5ed1e33070c1",
+    "alias": "2345",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "128.90.166.25:19742"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 200000,
+    "channelcount": 2,
+    "noderank": {
+      "capacity": 2427,
+      "channelcount": 1271,
+      "age": 1379,
+      "growth": 36,
+      "availability": 239
+    }
+  },
+  {
+    "last_update": 1573475157,
+    "pub_key": "0261fbcc44758e02ee1b441a63136f2049e8203bd48332f2e516bdfa3d92838ece",
+    "alias": "0261fbcc44758e02ee1b",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "0.0.0.0:9736"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 4352475,
+    "channelcount": 5,
+    "noderank": {
+      "capacity": 1475,
+      "channelcount": 568,
+      "age": 2744,
+      "growth": 2688,
+      "availability": 140
+    }
+  },
+  {
+    "last_update": 1573475111,
+    "pub_key": "02ec66fb12dd5d4943d63e7a1a35d063aec015e1c8b89cee6c9f2db3faf0f6687f",
+    "alias": "CryptoChill",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "45.55.127.67:19735"
+      }
+    ],
+    "color": "#597af6",
+    "capacity": 382590456,
+    "channelcount": 49,
+    "noderank": {
+      "capacity": 55,
+      "channelcount": 51,
+      "age": 1814,
+      "growth": 1835,
+      "availability": 65
+    }
+  },
+  {
+    "last_update": 1573474681,
+    "pub_key": "0377a233b550bca1375dfe72cfa960176ec1354daa4e1047975146d8186549a2f0",
+    "alias": "0377a233b550bca1375d",
+    "addresses": [],
+    "color": "#3399ff",
+    "capacity": 12229243,
+    "channelcount": 2,
+    "noderank": {
+      "capacity": 1105,
+      "channelcount": 1318,
+      "age": 1646,
+      "growth": 2817,
+      "availability": 46
+    }
+  },
+  {
+    "last_update": 1573474674,
+    "pub_key": "02a059b174439bf2e9556d120fd952a4fc06a560239b6223998ef0e035d348d8df",
+    "alias": "bob",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "34.90.36.48:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 85258998,
+    "channelcount": 7,
+    "noderank": {
+      "capacity": 254,
+      "channelcount": 395,
+      "age": 2813,
+      "growth": 83,
+      "availability": 13
+    }
+  },
+  {
+    "last_update": 1573474524,
+    "pub_key": "0303ba0fed62039df562a77bfcec887a9aa0767ff6519f6e2baa1309210544cd3d",
+    "alias": "Stratos DeMazos",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "5.9.150.112:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 732380011,
+    "channelcount": 73,
+    "noderank": {
+      "capacity": 31,
+      "channelcount": 33,
+      "age": 723,
+      "growth": 39,
+      "availability": 29
+    }
+  },
+  {
+    "last_update": 1573473782,
+    "pub_key": "033b5cc97288ec1634e1c7f3c5cb9de36465349b0c8f3aaa96b3912b8bfe91c937",
+    "alias": "033b5cc97288ec1634e1",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "104.198.216.182:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 300000,
+    "channelcount": 3,
+    "noderank": {
+      "capacity": 2353,
+      "channelcount": 994,
+      "age": 2797,
+      "growth": 2816,
+      "availability": 44
+    }
+  },
+  {
+    "last_update": 1573473227,
+    "pub_key": "02797c30e04e139ff6a186f8c07610ec6e1c3fe6ac3f237d942273bf78bc8ea291",
+    "alias": "bob",
+    "addresses": [
+      {
+        "network": "tcp",
+        "addr": "34.90.36.48:9735"
+      }
+    ],
+    "color": "#3399ff",
+    "capacity": 200000,
+    "channelcount": 2,
+    "noderank": {
+      "capacity": 2466,
+      "channelcount": 1541,
+      "age": 2881,
+      "growth": 37,
+      "availability": 231
+    }
+  }
+]
